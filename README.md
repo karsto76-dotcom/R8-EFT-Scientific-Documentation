@@ -5,7 +5,10 @@ This repository serves as the official scientific documentation for the **R8-EFT
 
 ## 📐 Fundamental Scaling
 The core of the theory is defined by the Master Equation for geometric scaling:
-$$\mathcal{R}_8 = \frac{35}{32} \cdot \Phi_{8D}$$
+
+$$
+\mathcal{R}_8 = \frac{35}{32} \cdot \Phi_{8D}
+$$
 
 ## 🧪 Key Validations
 * **Hubble Tension:** Resolved through continuous cell replication within the fluid lattice.
